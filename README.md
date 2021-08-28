@@ -1,4 +1,4 @@
-# Deploy-Deep-Learning-Models-TF-Serving-Docker
+# Project: Deploy Deep Learning Models TF Serving Docker
 
 ![Alt Image text](https://github.com/AndreBluhm/Project_Deploy-TensorFlow-Serving-Docker/blob/main/Coursera_TensorFlow-Serving-with-Docker-for-Model-Deployment.png?raw=true)
 
